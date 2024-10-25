@@ -2,7 +2,7 @@
 # run with the following command: pytest hw_test.py
 
 import numpy as np
-from hw05_sol import *
+from hw05 import *
 
 def test_p1():
     """
